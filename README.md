@@ -1,4 +1,4 @@
-# Data Analytics Projects — Shifan
+# Data Analytics Projects — Shifwan
 
 Welcome to my data analytics portfolio. This repository contains
 projects built using Python, Excel, and data visualization tools.
